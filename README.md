@@ -1,7 +1,11 @@
 Hi =]
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/invalid%20made%20ts%20%3D%5D-why%20not-maker">
-My pronouns are he/him and I play Roblox :3 
+<br>
+My pronouns are he/him and I play Roblox :3
+<br>
 I make random Roblox games and I'm on the Internet alot.
+<br>
 I do random crap too =]
 
 
