@@ -1,11 +1,10 @@
 # Hi =]
-I want the <font color="#FF7800">orange</font> candy.
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/invalid%20made%20ts%20%3D%5D-why%20not-maker">
 <br>
-My pronouns are <b></b>he/him and I play Roblox :3
+My pronouns are <b>he/him</b> and I play <b>Roblox</b> alot :3
 <br>
-I make random Roblox games and I'm on the Internet alot.
+I make random <b>Roblox</b> games and I'm on the <i><b>Internet</b></i> alot.
 <br>
 I do random crap too =]
 
