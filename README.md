@@ -1,12 +1,12 @@
-# Hi =]
+# Hey =]
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/invalid%20made%20ts%20%3D%5D-why%20not-maker">
+<img alt="Static Badge" src="https://img.shields.io/badge/fwiend-made%20this%20%3A3-270f75">
 <br>
-My pronouns are <b>he/him</b> and I play <b>Roblox</b> alot :3
+I'm a boy but also a GTA player for 4 years.
 <br>
-I make random <b>Roblox</b> games and I'm on the <i><b>Internet</b></i> alot.
+<b>I'm always on the Internet -- active ever since.</b>
 <br>
-I do random crap too =]
+I'm curious... if I see something, gimme it, thanks :3
 
 
 <!--
