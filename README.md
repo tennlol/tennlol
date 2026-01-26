@@ -1,10 +1,12 @@
-# Hey =]
+# Hey there 👋
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/fwiend-made%20this%20%3A3-270f75">
 <br>
 I'm a boy but also a GTA player for 4 years.
 <br>
 <b>I'm always on the Internet -- active ever since.</b>
+<br>
+I made CodeIt, a coding coach.
 <br>
 I'm curious... if I see something, gimme it, thanks :3
 
